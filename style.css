@@ -1,0 +1,39 @@
+.container{
+    width: 800px;
+    margin: 0 auto;
+}
+.navigation li{
+    display:inline-block;
+    margin-right: 15px;
+}
+
+.box{
+    display:inline-block;
+    width: 30px;
+    height: 20px;
+    margin-bottom: 15px;
+    margin-right: 10px;
+    
+}
+.red{
+    border:5px solid red;
+}
+.black{
+    border:5px solid black;
+}
+.green{
+    border:5px solid green;
+}
+.blue{
+    border:5px solid blue;
+}
+
+.hide{
+ 
+ display: none;
+  
+
+  
+}
+
+
